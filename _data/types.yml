@@ -9,4 +9,4 @@
   sub: CG
 
 - name: A类
-  sub: A
+  rank: A
