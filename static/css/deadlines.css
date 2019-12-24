@@ -134,6 +134,10 @@ footer {
   color: #444;
 }
 
+#donate {
+  text-align: center;
+}
+
 .conf-sub {
   color: rgb(36, 101, 191);
   background: rgba(236, 240, 241, 0.7);
