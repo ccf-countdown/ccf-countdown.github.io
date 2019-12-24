@@ -1,13 +1,6 @@
 ---
-- name: Machine Learning
-  sub: ML
-- name: Computer Vision
-  sub: CV
-- name: Natural Language Proc
-  sub: NLP
-- name: Robotics
-  sub: RO
-- name: Speech/SigProc
-  sub: SP
-- name: Data Mining
-  sub: DM
+- name: 人工智能
+  sub: AI
+
+- name: 数据库/数据挖掘/内容检索
+  sub: DB

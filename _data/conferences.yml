@@ -8,7 +8,7 @@
   timezone: Europe/London
   date: June 8-11, 2020
   place: Dublin, Ireland
-  sub: CV
+  sub: AI
 
 - title: CHIL
   year: 2020
@@ -18,7 +18,7 @@
   timezone: UTC-12
   date: April 2-4, 2020
   place: Toronto, Canada
-  sub: ML
+  sub: AI
 
 - title: IJCAI-PRICAI
   year: 2020
@@ -29,7 +29,7 @@
   timezone: UTC-12
   date: July 11-17, 2020
   place: Yokohama, Japan
-  sub: ML
+  sub: AI
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 15, 2020. More info <a href=''https://www.ijcai19.org/''>here</a>.'
 
 - title: SIGGRAPH
@@ -40,7 +40,7 @@
   timezone: America/Los_Angeles
   date: July 19 - 23, 2020
   place: Washington, D.C., USA
-  sub: CV
+  sub: AI
 
 - title: SIGIR
   year: 2020
@@ -51,7 +51,7 @@
   timezone: UTC-12
   date: July 25 - 30, 2020
   place: Xi'an, China
-  sub: DM
+  sub: AI
 
 - title: MIDL
   year: 2020
@@ -61,7 +61,7 @@
   timezone: UTC-12
   date: July 6-8, 2020
   place: Montreal, Canada
-  sub: CV
+  sub: AI
 
 - title: RSS
   year: 2020
@@ -71,7 +71,7 @@
   timezone: UTC-12
   date: Jul 12-17, 2020
   place: Oregon State University at Corvallis, Oregon
-  sub: RO
+  sub: AI
 
 - title: COLT
   year: 2020
@@ -81,7 +81,7 @@
   deadline: '2020-01-31 16:00:00'
   timezone: America/Los_Angeles
   place: Graz, Austria
-  sub: ML
+  sub: AI
 
 - title: ICML
   year: 2020
@@ -92,7 +92,7 @@
   timezone: America/Los_Angeles
   date: July 12-18, 2020
   place: Vienna, Austria
-  sub: ML
+  sub: AI
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 31, 2020. More info <a href=''https://icml.cc/Conferences/2020/CallForPapers''>here</a>.'
 
 - title: KDD
@@ -103,7 +103,7 @@
   timezone: UTC-11
   date: August 22-27, 2020
   place: San Diego, California, USA
-  sub: DM
+  sub: DB
 
 - title: UAI
   year: 2020
@@ -113,7 +113,7 @@
   timezone: America/New_York
   date: August 3-6, 2020
   place: Toronto, Canada
-  sub: ML
+  sub: AI
 
 - title: ICCC
   year: 2020
@@ -123,7 +123,7 @@
   timezone: UTC
   date: "June 29 \u2013 July 3, 2020"
   place: Coimbra, Portugal
-  sub: ML
+  sub: AI
 
 - title: IROS
   year: 2020
@@ -133,7 +133,7 @@
   timezone: America/Los_Angeles
   date: Oct 24-30, 2020
   place: Las Vegas, USA
-  sub: RO
+  sub: AI
 
 - title: ICPR
   year: 2020
@@ -143,7 +143,7 @@
   timezone: UTC+1
   date: Sep 13-18, 2020
   place: Milan, Italy
-  sub: CV
+  sub: AI
 
 - title: MICCAI
   year: 2020
@@ -153,7 +153,7 @@
   timezone: America/Los_Angeles
   date: October 4-8, 2020
   place: Lima, Peru
-  sub: CV
+  sub: AI
   note: '<b>NOTE</b>: Intent to submit deadline on Feb 18, 2020. More info <a href=''https://www.miccai2020.org/''>here</a>.'
 
 - title: ECCV
@@ -164,7 +164,7 @@
   timezone: Europe/London
   date: August 23-28, 2020
   place: Glasgow, Scotland, UK
-  sub: CV
+  sub: AI
 
 - title: InterSpeech
   year: 2020
@@ -174,7 +174,7 @@
   timezone: UTC-12
   date: September 14-18, 2020
   place: Shanghai, China
-  sub: SP
+  sub: AI
 
 - title: COLING
   year: 2020
@@ -184,7 +184,7 @@
   timezone: UTC-12
   date: September 13-18, 2020
   place: Barcelona, Spain
-  sub: NLP
+  sub: AI
 
 - title: AES
   year: 2019
@@ -194,7 +194,7 @@
   timezone: UTC
   date: March 27-29, 2019
   place: York, UK
-  sub: SP
+  sub: AI
 
 - title: NAACL
   year: 2019
@@ -204,7 +204,7 @@
   timezone: UTC-12
   date: June 2-7, 2019
   place: Minneapolis, USA
-  sub: NLP
+  sub: AI
 
 - title: GECCO
   year: 2019
@@ -214,7 +214,7 @@
   timezone: UTC-10
   date: July 13 - 17, 2019
   place: Prague, Czech Republic
-  sub: ML
+  sub: AI
 
 - title: ICCV
   year: 2019
@@ -224,7 +224,7 @@
   timezone: America/Los_Angeles
   date: October 27 - November 2, 2019
   place: Seoul, Korea
-  sub: CV
+  sub: AI
 
 - title: ISMIR
   year: 2019
@@ -234,7 +234,7 @@
   timezone: UTC-12
   date: November 4-8, 2019
   place: Delft, The Netherlands
-  sub: SP
+  sub: AI
 
 - title: MM
   year: 2019
@@ -245,7 +245,7 @@
   timezone: UTC-12
   date: October 21-25, 2019
   place: Nice, France
-  sub: CV
+  sub: AI
   note: '<b>NOTE</b>: Mandatory abstract submission deadline on April 1. More info
     <a href="https://www.acmmm.org/2019/important-dates/">here</a>.'
 
@@ -257,7 +257,7 @@
   timezone: America/Los_Angeles
   date: September 9-12, 2019
   place: Cardiff, Wales, UK
-  sub: CV
+  sub: AI
 
 - title: EMNLP-IJCNLP
   year: 2019
@@ -268,7 +268,7 @@
   timezone: UTC-7
   date: November 3-7, 2019
   place: Hong Kong
-  sub: NLP
+  sub: AI
   note: '<b>NOTE</b>: Mandatory abstract submission deadline on May 15. More info
     <a href="https://www.emnlp-ijcnlp2019.org/calls/papers">here</a>.'
 
@@ -281,7 +281,7 @@
   timezone: America/Los_Angeles
   date: December 9-14, 2019
   place: Vancouver Convention Centre, Canada
-  sub: ML
+  sub: AI
   note: '<b>NOTE</b>: Mandatory abstract deadline on May 16, 2019. More info <a href="https://nips.cc/Conferences/2019/Dates">here</a>.'
 
 - title: CoNLL
@@ -292,7 +292,7 @@
   timezone: UTC-12
   date: November 3-4, 2019
   place: Hong Kong
-  sub: NLP
+  sub: AI
 
 - title: ICDM
   year: 2019
@@ -302,7 +302,7 @@
   timezone: UTC-7
   date: November 8-11, 2019
   place: Beijing, China
-  sub: DM
+  sub: AI
 
 - title: 3DV
   year: 2019
@@ -312,7 +312,7 @@
   timezone: America/New_York
   date: September 16-19, 2019
   place: Quebec City, Canada
-  sub: CV
+  sub: AI
 
 - title: CoRL
   year: 2019
@@ -322,7 +322,7 @@
   timezone: UTC-7
   date: October 30 - November 1, 2019
   place: Osaka, Japan
-  sub: RO
+  sub: AI
 
 - title: WSDM
   year: 2020
@@ -332,7 +332,7 @@
   timezone: UTC-11
   date: February 3-7, 2020
   place: Houston, Texas, USA
-  sub: DM
+  sub: AI
 
 - title: AAAI
   year: 2020
@@ -342,7 +342,7 @@
   timezone: UTC-10
   date: February 7-12, 2020
   place: New York, USA
-  sub: ML
+  sub: AI
 
 - title: ICRA
   year: 2020
@@ -352,7 +352,7 @@
   timezone: America/Los_Angeles
   date: May 31-June 4, 2020
   place: Paris, France
-  sub: RO
+  sub: AI
 
 - title: ALT
   year: 2020
@@ -362,7 +362,7 @@
   timezone: America/New_York
   date: February 08-10, 2020
   place: San Diego, CA, United States
-  sub: ML
+  sub: AI
 
 - title: ICLR
   year: 2020
@@ -372,7 +372,7 @@
   timezone: Africa/Nairobi
   date: April 30, 2020
   place: Addis Ababa, Ethiopia
-  sub: ML
+  sub: AI
 
 - title: HRI
   year: 2020
@@ -382,7 +382,7 @@
   timezone: America/Los_Angeles
   date: March 23-26, 2020
   place: Cambridge, UK
-  sub: RO
+  sub: AI
 
 - title: AISTATS
   year: 2020
@@ -392,7 +392,7 @@
   timezone: America/Los_Angeles
   date: June 3-5, 2020
   place: Palermo, Sicily, Italy
-  sub: ML
+  sub: AI
 
 - title: WACV
   year: 2020
@@ -402,7 +402,7 @@
   timezone: America/Los_Angeles
   date: March 2-5, 2020
   place: Snowmass village, Colorado, USA
-  sub: CV
+  sub: AI
   note: '<b>NOTE</b>: Second round submission deadline.'
 
 - title: ICASSP
@@ -413,7 +413,7 @@
   timezone: UTC
   date: May 4-8, 2020
   place: Barcelona, Spain
-  sub: SP
+  sub: AI
 
 - title: CVPR
   year: 2020
@@ -423,7 +423,7 @@
   timezone: America/Los_Angeles
   date: June 14-19, 2020
   place: Seattle, USA
-  sub: CV
+  sub: AI
 
 - title: AAMAS
   year: 2020
@@ -434,7 +434,7 @@
   timezone: UTC-12
   date: May 9-13, 2020
   place: Auckland, New Zealand
-  sub: ML
+  sub: AI
   note: '<b>NOTE</b>: Mandatory abstract deadline on Nov 12, 2019. More info <a href=''https://aamas2020.conference.auckland.ac.nz/call-for-papers/''>here</a>.'
 
 - title: ECAI
@@ -446,7 +446,7 @@
   timezone: UTC-12
   date: June 8-12, 2020
   place: Santiago de Compostella, Spain
-  sub: ML
+  sub: AI
   note: '<b>NOTE</b>: Mandatory abstract deadline on Nov 15, 2019. More info <a href=''http://ecai2020.eu/call-for-papers/mainconference/''>here</a>.'
 
 - title: ICAPS
@@ -458,7 +458,7 @@
   timezone: UTC-12
   date: June 14-19, 2020
   place: Nancy, France
-  sub: ML
+  sub: AI
   note: '<b>NOTE</b>: Mandatory abstract deadline on Nov 15, 2019. More info <a href=''https://icaps20.icaps-conference.org/''>here</a>.'
 
 - title: LREC
@@ -469,4 +469,4 @@
   timezone: Europe/Paris
   date: May 11-16, 2020
   place: Marseille, France
-  sub: NLP
+  sub: AI
