@@ -115,6 +115,10 @@ footer {
   font-size: 13px;
 }
 
+.rank {
+  font-size: 13px;
+}
+
 .note {
   font-size: 13px;
   margin-bottom: 5px;
@@ -169,6 +173,9 @@ footer {
     display: none;
   }
   .conf-date {
+    display: none;
+  }
+  .rank {
     display: none;
   }
   .note {

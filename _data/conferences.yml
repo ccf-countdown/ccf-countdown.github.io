@@ -1,25 +1,5 @@
 ---
 
-- title: ICMR
-  year: 2020
-  id: icmr20
-  link: http://icmr2020.org/
-  deadline: '2020-01-11 23:59:59'
-  timezone: Europe/London
-  date: June 8-11, 2020
-  place: Dublin, Ireland
-  sub: AI
-
-- title: CHIL
-  year: 2020
-  id: chil20
-  link: http://www.chilconference.org/
-  deadline: '2020-01-13 23:59:59'
-  timezone: UTC-12
-  date: April 2-4, 2020
-  place: Toronto, Canada
-  sub: AI
-
 - title: IJCAI-PRICAI
   year: 2020
   id: ijcai-pricai20
@@ -30,6 +10,7 @@
   date: July 11-17, 2020
   place: Yokohama, Japan
   sub: AI
+  rank: A
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 15, 2020. More info <a href=''https://www.ijcai19.org/''>here</a>.'
 
 - title: SIGGRAPH
@@ -40,7 +21,8 @@
   timezone: America/Los_Angeles
   date: July 19 - 23, 2020
   place: Washington, D.C., USA
-  sub: AI
+  sub: CG
+  rank: A
 
 - title: SIGIR
   year: 2020
@@ -51,27 +33,8 @@
   timezone: UTC-12
   date: July 25 - 30, 2020
   place: Xi'an, China
-  sub: AI
-
-- title: MIDL
-  year: 2020
-  id: midl2020
-  link: https://2020.midl.io/
-  deadline: '2020-01-30 23:59:59'
-  timezone: UTC-12
-  date: July 6-8, 2020
-  place: Montreal, Canada
-  sub: AI
-
-- title: RSS
-  year: 2020
-  id: rss20
-  link: https://roboticsconference.org/
-  deadline: '2020-01-30 23:59:59'
-  timezone: UTC-12
-  date: Jul 12-17, 2020
-  place: Oregon State University at Corvallis, Oregon
-  sub: AI
+  sub: DB
+  rank: A
 
 - title: COLT
   year: 2020
@@ -82,6 +45,7 @@
   timezone: America/Los_Angeles
   place: Graz, Austria
   sub: AI
+  rank: B
 
 - title: ICML
   year: 2020
@@ -93,6 +57,7 @@
   date: July 12-18, 2020
   place: Vienna, Austria
   sub: AI
+  rank: A
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 31, 2020. More info <a href=''https://icml.cc/Conferences/2020/CallForPapers''>here</a>.'
 
 - title: KDD
@@ -104,6 +69,7 @@
   date: August 22-27, 2020
   place: San Diego, California, USA
   sub: DB
+  rank: A
 
 - title: UAI
   year: 2020
@@ -114,16 +80,7 @@
   date: August 3-6, 2020
   place: Toronto, Canada
   sub: AI
-
-- title: ICCC
-  year: 2020
-  id: iccc20
-  link: http://computationalcreativity.net/iccc20/
-  deadline: '2020-03-01 23:59:59'
-  timezone: UTC
-  date: "June 29 \u2013 July 3, 2020"
-  place: Coimbra, Portugal
-  sub: AI
+  rank: B
 
 - title: IROS
   year: 2020
@@ -134,6 +91,7 @@
   date: Oct 24-30, 2020
   place: Las Vegas, USA
   sub: AI
+  rank: C
 
 - title: ICPR
   year: 2020
@@ -144,17 +102,7 @@
   date: Sep 13-18, 2020
   place: Milan, Italy
   sub: AI
-
-- title: MICCAI
-  year: 2020
-  id: miccai2020
-  link: http://www.miccai2020.org/
-  deadline: '2020-03-03 23:59:59'
-  timezone: America/Los_Angeles
-  date: October 4-8, 2020
-  place: Lima, Peru
-  sub: AI
-  note: '<b>NOTE</b>: Intent to submit deadline on Feb 18, 2020. More info <a href=''https://www.miccai2020.org/''>here</a>.'
+  rank: C
 
 - title: ECCV
   year: 2020
@@ -165,16 +113,7 @@
   date: August 23-28, 2020
   place: Glasgow, Scotland, UK
   sub: AI
-
-- title: InterSpeech
-  year: 2020
-  id: interspeech20
-  link: http://www.interspeech2020.org/
-  deadline: '2020-03-29 23:59:59'
-  timezone: UTC-12
-  date: September 14-18, 2020
-  place: Shanghai, China
-  sub: AI
+  rank: B
 
 - title: COLING
   year: 2020
@@ -185,16 +124,7 @@
   date: September 13-18, 2020
   place: Barcelona, Spain
   sub: AI
-
-- title: AES
-  year: 2019
-  id: aes2019
-  link: http://www.aes.org/conferences/2019/immersive/
-  deadline: '2018-10-01 23:59:59'
-  timezone: UTC
-  date: March 27-29, 2019
-  place: York, UK
-  sub: AI
+  rank: B
 
 - title: NAACL
   year: 2019
@@ -205,6 +135,7 @@
   date: June 2-7, 2019
   place: Minneapolis, USA
   sub: AI
+  rank: C
 
 - title: GECCO
   year: 2019
@@ -215,6 +146,7 @@
   date: July 13 - 17, 2019
   place: Prague, Czech Republic
   sub: AI
+  rank: C
 
 - title: ICCV
   year: 2019
@@ -225,16 +157,7 @@
   date: October 27 - November 2, 2019
   place: Seoul, Korea
   sub: AI
-
-- title: ISMIR
-  year: 2019
-  id: ismir19
-  link: http://ismir2019.ewi.tudelft.nl/
-  deadline: '2019-04-05 23:59:59'
-  timezone: UTC-12
-  date: November 4-8, 2019
-  place: Delft, The Netherlands
-  sub: AI
+  rank: A
 
 - title: MM
   year: 2019
@@ -245,7 +168,8 @@
   timezone: UTC-12
   date: October 21-25, 2019
   place: Nice, France
-  sub: AI
+  sub: CG
+  rank: A
   note: '<b>NOTE</b>: Mandatory abstract submission deadline on April 1. More info
     <a href="https://www.acmmm.org/2019/important-dates/">here</a>.'
 
@@ -258,6 +182,7 @@
   date: September 9-12, 2019
   place: Cardiff, Wales, UK
   sub: AI
+  rank: C
 
 - title: EMNLP-IJCNLP
   year: 2019
@@ -269,6 +194,7 @@
   date: November 3-7, 2019
   place: Hong Kong
   sub: AI
+  rank: B
   note: '<b>NOTE</b>: Mandatory abstract submission deadline on May 15. More info
     <a href="https://www.emnlp-ijcnlp2019.org/calls/papers">here</a>.'
 
@@ -282,6 +208,7 @@
   date: December 9-14, 2019
   place: Vancouver Convention Centre, Canada
   sub: AI
+  rank: A
   note: '<b>NOTE</b>: Mandatory abstract deadline on May 16, 2019. More info <a href="https://nips.cc/Conferences/2019/Dates">here</a>.'
 
 - title: CoNLL
@@ -293,180 +220,4 @@
   date: November 3-4, 2019
   place: Hong Kong
   sub: AI
-
-- title: ICDM
-  year: 2019
-  id: icdm19
-  link: http://icdm2019.bigke.org/
-  deadline: '2019-06-05 23:59:59'
-  timezone: UTC-7
-  date: November 8-11, 2019
-  place: Beijing, China
-  sub: AI
-
-- title: 3DV
-  year: 2019
-  id: threedv19
-  link: http://3dv19.gel.ulaval.ca/
-  deadline: '2019-06-10 23:59:59'
-  timezone: America/New_York
-  date: September 16-19, 2019
-  place: Quebec City, Canada
-  sub: AI
-
-- title: CoRL
-  year: 2019
-  id: corl2019
-  link: http://www.robot-learning.org
-  deadline: '2019-07-07 23:59:59'
-  timezone: UTC-7
-  date: October 30 - November 1, 2019
-  place: Osaka, Japan
-  sub: AI
-
-- title: WSDM
-  year: 2020
-  id: wsdm20
-  link: http://www.wsdm-conference.org/2020/
-  deadline: '2019-08-16 23:59:59'
-  timezone: UTC-11
-  date: February 3-7, 2020
-  place: Houston, Texas, USA
-  sub: AI
-
-- title: AAAI
-  year: 2020
-  id: aaai20
-  link: https://aaai.org/Conferences/AAAI-20/
-  deadline: '2019-09-05 23:59:59'
-  timezone: UTC-10
-  date: February 7-12, 2020
-  place: New York, USA
-  sub: AI
-
-- title: ICRA
-  year: 2020
-  id: icra20
-  link: https://icra2020.org/
-  deadline: '2019-09-15 23:59:59'
-  timezone: America/Los_Angeles
-  date: May 31-June 4, 2020
-  place: Paris, France
-  sub: AI
-
-- title: ALT
-  year: 2020
-  id: alt20
-  link: http://alt2020.algorithmiclearningtheory.org/
-  deadline: '2019-09-20 16:59:59'
-  timezone: America/New_York
-  date: February 08-10, 2020
-  place: San Diego, CA, United States
-  sub: AI
-
-- title: ICLR
-  year: 2020
-  id: iclr20
-  link: http://iclr.cc/
-  deadline: '2019-09-25 17:59:59'
-  timezone: Africa/Nairobi
-  date: April 30, 2020
-  place: Addis Ababa, Ethiopia
-  sub: AI
-
-- title: HRI
-  year: 2020
-  id: hri20
-  link: https://humanrobotinteraction.org/2020/
-  deadline: '2019-10-01 23:59:59'
-  timezone: America/Los_Angeles
-  date: March 23-26, 2020
-  place: Cambridge, UK
-  sub: AI
-
-- title: AISTATS
-  year: 2020
-  id: aistats20
-  link: https://www.aistats.org/
-  deadline: '2019-10-08 23:59:59'
-  timezone: America/Los_Angeles
-  date: June 3-5, 2020
-  place: Palermo, Sicily, Italy
-  sub: AI
-
-- title: WACV
-  year: 2020
-  id: wacv20
-  link: http://wacv20.wacv.net/
-  deadline: '2019-10-11 23:59:59'
-  timezone: America/Los_Angeles
-  date: March 2-5, 2020
-  place: Snowmass village, Colorado, USA
-  sub: AI
-  note: '<b>NOTE</b>: Second round submission deadline.'
-
-- title: ICASSP
-  year: 2020
-  id: icassp20
-  link: https://2020.ieeeicassp.org/
-  deadline: '2019-10-21 23:59:59'
-  timezone: UTC
-  date: May 4-8, 2020
-  place: Barcelona, Spain
-  sub: AI
-
-- title: CVPR
-  year: 2020
-  id: cvpr20
-  link: http://cvpr2020.thecvf.com/
-  deadline: '2019-11-15 23:59:59'
-  timezone: America/Los_Angeles
-  date: June 14-19, 2020
-  place: Seattle, USA
-  sub: AI
-
-- title: AAMAS
-  year: 2020
-  id: aamas20
-  link: https://aamas2020.conference.auckland.ac.nz/
-  deadline: '2019-11-15 23:59:59'
-  abstract_deadline: '2019-11-12 23:59:59'
-  timezone: UTC-12
-  date: May 9-13, 2020
-  place: Auckland, New Zealand
-  sub: AI
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Nov 12, 2019. More info <a href=''https://aamas2020.conference.auckland.ac.nz/call-for-papers/''>here</a>.'
-
-- title: ECAI
-  year: 2020
-  id: ecai20
-  link: http://ecai2020.eu/
-  deadline: '2019-11-19 23:59:59'
-  abstract_deadline: '2019-11-15 23:59:59'
-  timezone: UTC-12
-  date: June 8-12, 2020
-  place: Santiago de Compostella, Spain
-  sub: AI
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Nov 15, 2019. More info <a href=''http://ecai2020.eu/call-for-papers/mainconference/''>here</a>.'
-
-- title: ICAPS
-  year: 2020
-  id: icaps20
-  link: https://icaps20.icaps-conference.org/
-  deadline: '2019-11-20 23:59:59'
-  abstract_deadline: '2019-11-15 23:59:59'
-  timezone: UTC-12
-  date: June 14-19, 2020
-  place: Nancy, France
-  sub: AI
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Nov 15, 2019. More info <a href=''https://icaps20.icaps-conference.org/''>here</a>.'
-
-- title: LREC
-  year: 2020
-  id: lrec20
-  link: https://lrec2020.lrec-conf.org/en/
-  deadline: '2019-12-02 23:59:59'
-  timezone: Europe/Paris
-  date: May 11-16, 2020
-  place: Marseille, France
-  sub: AI
+  rank: C
