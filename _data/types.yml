@@ -10,6 +10,3 @@
 
 - name: 网络与信息安全
   sub: SC
-
-- name: A类
-  sub: A

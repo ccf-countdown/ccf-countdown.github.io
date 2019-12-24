@@ -233,7 +233,19 @@
   deadline: "2020-01-20 23:59"
   date: "Nov 9 - Nov 13"
   place: Orlando, USA
-  sub: [SC, A]
+  sub: SC
+  rank: A
+  note: '<b>NOTE</b>: 2 review cycles'
+
+- name: S&P
+  year: 2020
+  date: "May 18 – 20 2020"
+  description: IEEE Symposium on Security and Privacy
+  link: https://www.ieee-security.org/TC/SP2020/index.html
+  deadline: "%y-%m-01 15:00"
+  timezone: Etc/GMT+7
+  place: San Francisco, USA
+  note: '<b>NOTE</b>: Rolling deadline every month'
 
 # - name: S&P (Oakland)
 #   year: 2019
