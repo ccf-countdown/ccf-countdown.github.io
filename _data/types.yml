@@ -7,3 +7,6 @@
 
 - name: 计算机图形学与多媒体
   sub: CG
+
+- name: A类
+  sub: A
