@@ -15,29 +15,6 @@
   rank: A
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 15, 2020. More info <a href=''https://www.ijcai19.org/''>here</a>.'
 
-- title: SIGGRAPH
-  year: 2020
-  id: siggraph20
-  link: https://s2020.siggraph.org/
-  deadline: '2020-01-22 22:00:00'
-  timezone: America/Los_Angeles
-  date: July 19 - 23, 2020
-  place: Washington, D.C., USA
-  sub: CG
-  rank: A
-
-- title: SIGIR
-  year: 2020
-  id: sigir20
-  link: http://sigir.org/sigir2020/
-  deadline: '2020-01-22 23:59:59'
-  abstract_deadline: '2020-01-15 23:59:59'
-  timezone: UTC-12
-  date: July 25 - 30, 2020
-  place: Xi'an, China
-  sub: DB
-  rank: A
-
 - title: COLT
   year: 2020
   id: colt20
@@ -61,17 +38,6 @@
   sub: AI
   rank: A
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 31, 2020. More info <a href=''https://icml.cc/Conferences/2020/CallForPapers''>here</a>.'
-
-- title: KDD
-  year: 2020
-  id: kdd20
-  link: https://www.kdd.org/kdd2020/
-  deadline: '2020-02-13 23:59:59'
-  timezone: UTC-11
-  date: August 22-27, 2020
-  place: San Diego, California, USA
-  sub: DB
-  rank: A
 
 - title: UAI
   year: 2020
@@ -161,20 +127,6 @@
   sub: AI
   rank: A
 
-- title: MM
-  year: 2019
-  id: ACMMultimedia
-  link: https://www.acmmm.org/2019/
-  deadline: '2019-04-08 23:59:59'
-  abstract_deadline: '2019-04-01 23:59:59'
-  timezone: UTC-12
-  date: October 21-25, 2019
-  place: Nice, France
-  sub: CG
-  rank: A
-  note: '<b>NOTE</b>: Mandatory abstract submission deadline on April 1. More info
-    <a href="https://www.acmmm.org/2019/important-dates/">here</a>.'
-
 - title: BMVC
   year: 2019
   id: bmvc19
@@ -224,27 +176,83 @@
   sub: AI
   rank: C
 
-# security conference
-
-- name: CCS
-  description: ACM Conference on Computer and Communications Security
+# computer graph conferences
+- title: SIGGRAPH
   year: 2020
+  id: siggraph20
+  link: https://s2020.siggraph.org/
+  deadline: '2020-01-22 22:00:00'
+  timezone: America/Los_Angeles
+  date: July 19 - 23, 2020
+  place: Washington, D.C., USA
+  sub: CG
+  rank: A
+
+- title: MM
+  year: 2019
+  id: ACMMultimedia
+  link: https://www.acmmm.org/2019/
+  deadline: '2019-04-08 23:59:59'
+  abstract_deadline: '2019-04-01 23:59:59'
+  timezone: UTC-12
+  date: October 21-25, 2019
+  place: Nice, France
+  sub: CG
+  rank: A
+  note: '<b>NOTE</b>: Mandatory abstract submission deadline on April 1. More info
+    <a href="https://www.acmmm.org/2019/important-dates/">here</a>.'
+
+# database conferences
+
+- title: SIGIR
+  year: 2020
+  id: sigir20
+  link: http://sigir.org/sigir2020/
+  deadline: '2020-01-22 23:59:59'
+  abstract_deadline: '2020-01-15 23:59:59'
+  timezone: UTC-12
+  date: July 25 - 30, 2020
+  place: Xi'an, China
+  sub: DB
+  rank: A
+
+- title: KDD
+  year: 2020
+  id: kdd20
+  link: https://www.kdd.org/kdd2020/
+  deadline: '2020-02-13 23:59:59'
+  timezone: UTC-11
+  date: August 22-27, 2020
+  place: San Diego, California, USA
+  sub: DB
+  rank: A
+
+# security conferences
+
+- title: CCS
+  year: 2020
+  id: ccs20
   link: https://www.sigsac.org/ccs/CCS2020/
+  description: ACM Conference on Computer and Communications Security
   deadline: "2020-01-20 23:59"
-  date: "Nov 9 - Nov 13"
+  timezone: UTC-12
+  date: "Nov 9 - Nov 13, 2020"
   place: Orlando, USA
   sub: SC
   rank: A
   note: '<b>NOTE</b>: 2 review cycles'
 
-- name: S&P
+- title: S&P
   year: 2020
-  date: "May 18 – 20 2020"
-  description: IEEE Symposium on Security and Privacy
+  id: sp2020
   link: https://www.ieee-security.org/TC/SP2020/index.html
-  deadline: "%y-%m-01 15:00"
-  timezone: Etc/GMT+7
+  description: IEEE Symposium on Security and Privacy
+  deadline: "2020-01-01 15:00"
+  timezone: UTC-7
+  date: "May 18 – May 20, 2020"
   place: San Francisco, USA
+  sub: SC
+  rank: A
   note: '<b>NOTE</b>: Rolling deadline every month'
 
 # - name: S&P (Oakland)
