@@ -9,7 +9,7 @@ baseurl: ""
 twitter_username: greferry
 twitter_hashtag: ccf-conference
 github_username: ccf-countdown
-github_repo: ccf-countdown
+github_repo: ccf-countdown.github.io
 
 markdown: kramdown
 ga_id: UA-36274081-2
