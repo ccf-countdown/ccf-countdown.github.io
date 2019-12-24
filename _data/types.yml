@@ -8,5 +8,8 @@
 - name: 计算机图形学与多媒体
   sub: CG
 
+- name: 网络与信息安全
+  sub: SC
+
 - name: A类
-  rank: A
+  sub: A

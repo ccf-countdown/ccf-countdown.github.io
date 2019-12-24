@@ -1,5 +1,7 @@
 ---
 
+# AI conferences
+
 - title: IJCAI-PRICAI
   year: 2020
   id: ijcai-pricai20
@@ -221,3 +223,91 @@
   place: Hong Kong
   sub: AI
   rank: C
+
+# security conference
+
+- name: CCS
+  description: ACM Conference on Computer and Communications Security
+  year: 2020
+  link: https://www.sigsac.org/ccs/CCS2020/
+  deadline: "2020-01-20 23:59"
+  date: "Nov 9 - Nov 13"
+  place: Orlando, USA
+  sub: [SC, A]
+
+# - name: S&P (Oakland)
+#   year: 2019
+#   description: IEEE Symposium on Security and Privacy
+#   link: https://www.ieee-security.org/TC/SP2018/
+#   deadline: "%y-%m-01 15:00"
+#   timezone: Etc/GMT+7
+#   comment: Rolling deadline every month
+#   tags: [SEC, PRIV]
+
+# - name: Euro S&P
+#   description: IEEE European Symposium on Security and Privacy
+#   year: 2018
+#   link: http://www.ieee-security.org/TC/EuroSP2018/
+#   deadline: "2017-08-15 23:59"
+#   date: April 24-26
+#   place: London, UK
+#   tags: [SEC, PRIV]
+
+# - name: Usenix
+#   description: Usenix Security Symposium
+#   year: 2018
+#   link: https://www.usenix.org/conference/usenixsecurity18
+#   deadline: "2018-02-08 16:59"
+#   timezone: America/Los_Angeles
+#   date: "August 15-17"
+#   place: Baltimore, MD, USA
+#   tags: [SEC, PRIV]
+
+# - name: Crypto
+#   description: International Cryptology Conference
+#   year: 2018
+#   link: https://www.iacr.org/conferences
+#   deadline: "2018-02-13 22:00"
+#   timezone: Etc/UTC
+#   date: August 20-24
+#   place: Santa Barbara, CA, USA
+#   tags: CRYPTO
+
+# - name: Eurocrypt
+#   description: European Cryptology Conference
+#   year: 2018
+#   link: https://eurocrypt.iacr.org/2018/
+#   deadline: "2017-09-19 21:59"
+#   timezone: Etc/UTC
+#   date: Apr 29 - May 3
+#   place: Tel Aviv, Israel
+#   tags: CRYPTO
+
+# - name: NDSS
+#   description: ISOC Network and Distributed System Security Symposium
+#   year: 2020
+#   link: https://www.ndss-symposium.org/ndss2020/
+#   deadline: "2017-08-11 23:59"
+#   timezone: Etc/GMT+4
+#   date: February 18-21
+#   place: San Diego, CA, USA
+#   tags: SEC
+
+# - name: FC
+#   description: Financial Cryptography and Data Security
+#   year: 2018
+#   link: http://fc18.ifca.ai/
+#   deadline: "2017-09-15 23:59"
+#   timezone: Etc/GMT+11
+#   date: "Feb 26 - Mar 2"
+#   place: Curaçao
+#   tags: CRYPTO
+
+# - name: DSN
+#   description: The International Conference on Dependable Systems and Networks
+#   year: 2018
+#   link: https://dsn2018.uni.lu/
+#   deadline: "2017-11-27 23:59"
+#   date: TBA
+#   place: Luxembourg
+#   tags: SEC
