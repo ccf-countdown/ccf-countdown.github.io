@@ -1,5 +1,14 @@
 <html>
   <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-155007567-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-155007567-1');
+</script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -18,6 +27,7 @@
     <script src="{{ "/static/js/ouical.min.js" | prepend:site.baseurl }}"></script>
 
   </head>
+
   <body>
     <div class="top-strip"></div>
     <div class="container">
@@ -30,8 +40,7 @@
                   </h1>
                 </div>
                 <div class="meta col-xs-12">
-                  {{ site.description }}.
-                  To add/edit a conference, <a target="_blank" href="//github.com/{{ site.github_username }}/{{ site.github_repo }}">send in a pull request</a>.
+                  Countdowns to <a href="https://www.ccf.org.cn/xspj/gyml/">CCF conference</a> deadlines. To add/edit a conference, <a target="_blank" href="//github.com/{{ site.github_username }}/{{ site.github_repo }}">send in a pull request</a>.
                 </div>
             </div>
             <br>
@@ -60,11 +69,6 @@
                   Deadlines are shown in <span class="local-timezone">America/New_York</span> time.
                   To view them in conference website timezones, click on them.
                 </span>
-              </div>
-              <div class="meta col-xs-12">
-                You can optionally export all deadlines to
-                <a href="https://calendar.google.com/calendar/r?cid={{ site.url }}/ccf-countdown.ics">Google Calendar</a> or
-                <a href="/ccf-countdown.ics">.ics</a>.
               </div>
             </div>
         </div>
@@ -283,13 +287,6 @@
           window.history.pushState('', '', '/?sub=' + subs.join());
         });
     });
-    <!-- Google analytics -->
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-      ga('create', '{{ site.ga_id }}', 'auto');
-      ga('send', 'pageview');
     </script>
   </body>
 </html>
