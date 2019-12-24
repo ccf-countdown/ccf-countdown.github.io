@@ -136,6 +136,7 @@ footer {
 
 #donate {
   text-align: center;
+  float: left;
 }
 
 .conf-sub {
