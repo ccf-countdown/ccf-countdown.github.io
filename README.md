@@ -1,6 +1,6 @@
 ## CCF Countdown
 
-Countdown timers to keep track of deadlines of conferences recommended [by China Computer Federation (CCF)](https://www.ccf.org.cn/xspj/gyml/).
+Countdown timers to keep track of deadlines of conferences recommended by [China Computer Federation (CCF)](https://www.ccf.org.cn/xspj/gyml/).
 
 ## Adding/updating a conference
 
