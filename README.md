@@ -15,6 +15,7 @@ To add or update information:
 - Make sure it has the `title`, `year`, `id`, `link`, `deadline`, `timezone`, `date`, `place`, `sub`, `rank` attributes
     + See available timezone strings [here](https://momentjs.com/timezone/).
 - Optionally add a `note` and `abstract_deadline` in case the conference has a separate mandatory abstract deadline
+- [Testing the **GitHub Pages** site locally with Jekyll](https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll) if you want
 - Send a pull request
 
 ### Conference entry record
@@ -34,6 +35,7 @@ Example record:
   sub: DS
   rank: B
 ```
+
 ### License
 
 [MIT][1]
