@@ -179,7 +179,7 @@
   id: ccs20
   description: ACM Conference on Computer and Communications Security
   link: https://www.sigsac.org/ccs/CCS2020/
-  deadline: "2020-01-20 23:59"
+  deadline: "2020-01-20 23:59:59"
   timezone: UTC-12
   date: "Nov 9 - Nov 13, 2020"
   place: Orlando, USA
@@ -192,7 +192,7 @@
   id: sp2020
   description: IEEE Symposium on Security and Privacy
   link: https://www.ieee-security.org/TC/SP2020/index.html
-  deadline: "2020-01-01 15:00"
+  deadline: "2020-01-01 14:59:59"
   timezone: UTC-7
   date: "May 18 – May 20, 2020"
   place: San Francisco, USA
