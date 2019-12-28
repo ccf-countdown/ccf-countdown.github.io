@@ -53,6 +53,7 @@ Description of the fields:
 | `place`\*           | Where the conference is happening                                                |
 | `sub`\*             | The category that the conference is labeled by CCF, see the matching table below |
 | `rank`\*            | The level that the conference is ranked by CCF, i.e., `A`, `B`, `C`              |
+| `note`              | Some comments on the conference                                                  |
 
 The matching table:
 
