@@ -5,6 +5,7 @@
 - title: ICDCS
   year: 2020
   id: icdcs20
+  description: The 40th IEEE International Conference on Distributed Computing Systems
   link: https://icdcs2020.sg/
   deadline: '2020-01-13 23:59:59'
   abstract_deadline: '2020-01-06 23:59:59'
@@ -16,22 +17,10 @@
 
 # AI conferences
 
-- title: IJCAI-PRICAI
-  year: 2020
-  id: ijcai-pricai20
-  link: https://www.ijcai20.org/
-  deadline: '2020-01-21 23:59:59'
-  abstract_deadline: '2020-01-15 23:59:59'
-  timezone: UTC-12
-  date: July 11-17, 2020
-  place: Yokohama, Japan
-  sub: AI
-  rank: A
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 15, 2020. More info <a href=''https://www.ijcai19.org/''>here</a>.'
-
 - title: COLT
   year: 2020
   id: colt20
+  description: The 33rd Annual Conference on Learning Theory
   link: http://www.learningtheory.org/colt2020/
   date: June 8-12, 2020
   deadline: '2020-01-31 16:00:00'
@@ -43,6 +32,7 @@
 - title: ICML
   year: 2020
   id: icml20
+  description: The 37th International Conference on Machine Learning
   link: https://icml.cc/Conferences/2020
   deadline: '2020-02-07 03:59:00'
   abstract_deadline: '2020-01-31 03:59:00'
@@ -56,6 +46,7 @@
 - title: UAI
   year: 2020
   id: uai20
+  description: The Conference on Uncertainty in Artificial Intelligence
   link: http://auai.org/uai2020/
   deadline: '2020-02-20 23:59:59'
   timezone: America/New_York
@@ -67,6 +58,7 @@
 - title: IROS
   year: 2020
   id: iros20
+  description: The International Conference on Intelligent Robots and Systems
   link: http://www.iros2020.org/
   deadline: '2020-03-01 23:59:59'
   timezone: America/Los_Angeles
@@ -78,6 +70,7 @@
 - title: ICPR
   year: 2020
   id: icpr20
+  description: The 25th International Conference on Pattern Recognition
   link: https://www.micc.unifi.it/icpr2020
   deadline: '2020-03-02 23:59:59'
   timezone: UTC+1
@@ -89,6 +82,7 @@
 - title: ECCV
   year: 2020
   id: eccv20
+  description: The 2020 European Conference on Computer Vision
   link: https://eccv2020.eu
   deadline: '2020-03-05 07:00:00'
   timezone: Europe/London
@@ -100,6 +94,7 @@
 - title: COLING
   year: 2020
   id: coling20
+  description: The 28th International Conference on Computational Linguistics
   link: https://coling2020.org/
   deadline: '2020-04-08 23:59:59'
   timezone: UTC-12
@@ -108,31 +103,10 @@
   sub: AI
   rank: B
 
-- title: NAACL
-  year: 2019
-  id: naacl19
-  link: http://naacl2019.org/
-  deadline: '2018-12-10 23:59:59'
-  timezone: UTC-12
-  date: June 2-7, 2019
-  place: Minneapolis, USA
-  sub: AI
-  rank: C
-
-- title: GECCO
-  year: 2019
-  id: gecco19
-  link: https://gecco-2019.sigevo.org/index.html/tiki-index.php
-  deadline: '2019-01-30 23:59:59'
-  timezone: UTC-10
-  date: July 13 - 17, 2019
-  place: Prague, Czech Republic
-  sub: AI
-  rank: C
-
 - title: ICCV
   year: 2019
   id: iccv19
+  description: The Tnternational Conference on Computer Vision 
   link: http://iccv2019.thecvf.com/
   deadline: '2019-03-22 23:59:00'
   timezone: America/Los_Angeles
@@ -141,34 +115,10 @@
   sub: AI
   rank: A
 
-- title: BMVC
-  year: 2019
-  id: bmvc19
-  link: https://bmvc2019.org
-  deadline: '2019-04-29 23:59:00'
-  timezone: America/Los_Angeles
-  date: September 9-12, 2019
-  place: Cardiff, Wales, UK
-  sub: AI
-  rank: C
-
-- title: EMNLP-IJCNLP
-  year: 2019
-  id: emnlp-ijcnlp19
-  link: http://emnlp-ijcnlp2019.org/
-  deadline: '2019-05-21 23:59:59'
-  abstract_deadline: '2019-05-15 23:59:59'
-  timezone: UTC-7
-  date: November 3-7, 2019
-  place: Hong Kong
-  sub: AI
-  rank: B
-  note: '<b>NOTE</b>: Mandatory abstract submission deadline on May 15. More info
-    <a href="https://www.emnlp-ijcnlp2019.org/calls/papers">here</a>.'
-
 - title: NeurIPS
   year: 2019
   id: neurips19
+  description: The 33rd Conference on Neural Information Processing Systems
   link: https://neurips.cc/Conferences/2019
   deadline: '2019-05-23 13:00:00'
   abstract_deadline: '2019-05-16 13:00:00'
@@ -179,21 +129,11 @@
   rank: A
   note: '<b>NOTE</b>: Mandatory abstract deadline on May 16, 2019. More info <a href="https://nips.cc/Conferences/2019/Dates">here</a>.'
 
-- title: CoNLL
-  year: 2019
-  id: conll2019
-  link: http://www.conll.org/2019
-  deadline: '2019-05-31 23:59:59'
-  timezone: UTC-12
-  date: November 3-4, 2019
-  place: Hong Kong
-  sub: AI
-  rank: C
-
 # computer graph conferences
 - title: SIGGRAPH
   year: 2020
   id: siggraph20
+  description: The 47th International Conference & Exhibition on Computer Graphics & Interactive Techniques
   link: https://s2020.siggraph.org/
   deadline: '2020-01-22 22:00:00'
   timezone: America/Los_Angeles
@@ -205,6 +145,7 @@
 - title: MM
   year: 2019
   id: ACMMultimedia
+  description: The 27th ACM International Conference on Multimedia
   link: https://www.acmmm.org/2019/
   deadline: '2019-04-08 23:59:59'
   abstract_deadline: '2019-04-01 23:59:59'
@@ -221,6 +162,7 @@
 - title: SIGIR
   year: 2020
   id: sigir20
+  description: The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval
   link: http://sigir.org/sigir2020/
   deadline: '2020-01-22 23:59:59'
   abstract_deadline: '2020-01-15 23:59:59'
@@ -230,24 +172,13 @@
   sub: DB
   rank: A
 
-- title: KDD
-  year: 2020
-  id: kdd20
-  link: https://www.kdd.org/kdd2020/
-  deadline: '2020-02-13 23:59:59'
-  timezone: UTC-11
-  date: August 22-27, 2020
-  place: San Diego, California, USA
-  sub: DB
-  rank: A
-
 # security conferences
 
 - title: CCS
   year: 2020
   id: ccs20
-  link: https://www.sigsac.org/ccs/CCS2020/
   description: ACM Conference on Computer and Communications Security
+  link: https://www.sigsac.org/ccs/CCS2020/
   deadline: "2020-01-20 23:59"
   timezone: UTC-12
   date: "Nov 9 - Nov 13, 2020"
@@ -259,8 +190,8 @@
 - title: S&P
   year: 2020
   id: sp2020
-  link: https://www.ieee-security.org/TC/SP2020/index.html
   description: IEEE Symposium on Security and Privacy
+  link: https://www.ieee-security.org/TC/SP2020/index.html
   deadline: "2020-01-01 15:00"
   timezone: UTC-7
   date: "May 18 – May 20, 2020"

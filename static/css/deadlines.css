@@ -119,6 +119,10 @@ footer {
   font-size: 13px;
 }
 
+.des {
+  font-size: 13px;
+}
+
 .note {
   font-size: 13px;
   margin-bottom: 5px;
@@ -182,6 +186,9 @@ footer {
     display: none;
   }
   .rank {
+    display: none;
+  }
+  .des {
     display: none;
   }
   .note {
