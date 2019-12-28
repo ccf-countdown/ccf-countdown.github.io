@@ -39,21 +39,21 @@ Example record:
 
 Description of the fields:
 
-| Field name          | Description                                                                      |
-| ------------------- | -------------------------------------------------------------------------------- |
-| `title`\*           | Short conference name, without year                                              |
-| `year`\*            | Year the conference is happening                                                 |
-| `description`\*     | Description, or long name                                                        |
-| `id`\*              | Identifier of the conference                                                     |
-| `link`\*            | URL to the conference home page                                                  |
-| `deadline`\*        | Deadline                                                                         |
-| `abstract_deadline` | Abstract deadline if applicable                                                  |
-| `timezone`\*        | Timezone of the place where the conference is happening                          |
-| `date`\*            | When the conference is happening                                                 |
-| `place`\*           | Where the conference is happening                                                |
+| Field name          | Description                                                                                                           |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| `title`\*           | Short conference name, without year                                                                                   |
+| `year`\*            | Year the conference is happening                                                                                      |
+| `description`\*     | Description, or long name                                                                                             |
+| `id`\*              | Identifier of the conference                                                                                          |
+| `link`\*            | URL to the conference home page                                                                                       |
+| `deadline`\*        | Deadline, in the format of `yyyy-mm-dd hh:mm:ss`                                                                      |
+| `abstract_deadline` | Abstract deadline if applicable                                                                                       |
+| `timezone`\*        | Timezone of the place where the conference is happening                                                               |
+| `date`\*            | When the conference is happening                                                                                      |
+| `place`\*           | Where the conference is happening                                                                                     |
 | `sub`\*             | The category that the conference is labeled by [CCF](https://www.ccf.org.cn/xspj/gyml/). See the matching table below |
 | `rank`\*            | The level that the conference is ranked by [CCF](https://www.ccf.org.cn/xspj/gyml/), i.e., `A`, `B`, `C`              |
-| `note`              | Some comments on the conference                                                  |
+| `note`              | Some comments on the conference                                                                                       |
 
 Fields marked with asterisk (*) are required.
 
