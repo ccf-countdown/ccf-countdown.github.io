@@ -51,24 +51,26 @@ Description of the fields:
 | `timezone`\*        | Timezone of the place where the conference is happening                          |
 | `date`\*            | When the conference is happening                                                 |
 | `place`\*           | Where the conference is happening                                                |
-| `sub`\*             | The category that the conference is labeled by CCF, see the matching table below |
-| `rank`\*            | The level that the conference is ranked by CCF, i.e., `A`, `B`, `C`              |
+| `sub`\*             | The category that the conference is labeled by [CCF](https://www.ccf.org.cn/xspj/gyml/). See the matching table below |
+| `rank`\*            | The level that the conference is ranked by [CCF](https://www.ccf.org.cn/xspj/gyml/), i.e., `A`, `B`, `C`              |
 | `note`              | Some comments on the conference                                                  |
+
+Fields marked with asterisk (*) are required.
 
 The matching table:
 
-| Category name in [CCF](https://www.ccf.org.cn/xspj/gyml/) | `sub` field |
-| --------------------------------------------------------- | ----------- |
-| `计算机体系结构/并行与分布计算/存储系统`                  | `DS`        |
-| `计算机网络`                                              | `NW`        |
-| `网络与信息安全`                                          | `SC`        |
-| `软件工程/系统软件/程序设计语言`                          | `SE`        |
-| `数据库/数据挖掘/内容检索`                                | `DB`        |
-| `计算机科学理论`                                          | `CT`        |
-| `计算机图形学与多媒体`                                    | `CG`        |
-| `人工智能`                                                | `AI`        |
-| `人机交互与普适计算`                                      | `HI`        |
-| `交叉/综合/新兴`                                          | `NEW`       |
+| `sub` field | Category name in [CCF](https://www.ccf.org.cn/xspj/gyml/) |
+| ----------- | --------------------------------------------------------- |
+| `DS`        | 计算机体系结构/并行与分布计算/存储系统                    |
+| `NW`        | 计算机网络                                                |
+| `SC`        | 网络与信息安全                                            |
+| `SE`        | 软件工程/系统软件/程序设计语言                            |
+| `DB`        | 数据库/数据挖掘/内容检索                                  |
+| `CT`        | 计算机科学理论                                            |
+| `CG`        | 计算机图形学与多媒体                                      |
+| `AI`        | 人工智能                                                  |
+| `HI`        | 人机交互与普适计算                                        |
+| `NEW`       | 交叉/综合/新兴                                            |
 
 ### License
 
